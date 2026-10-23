@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-linejoin: round;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+        stroke-width: 2.5px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        stroke: #0b1f3a;
+      }
+
+      .st4 {
+        fill: #1f5fa8;
+      }
+
+      .st1, .st3 {
+        stroke-miterlimit: 3.8;
+      }
+
+      .st5 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .st5, .st6 {
+        stroke: #fff;
+      }
+
+      .st5, .st6, .st3 {
+        fill: none;
+      }
+
+      .st5, .st2 {
+        stroke-miterlimit: 4.3;
+      }
+
+      .st6 {
+        stroke-opacity: .2;
+        stroke-width: 1.5px;
+      }
+
+      .st2 {
+        fill: #d9f23b;
+        stroke-width: 2.6px;
+      }
+
+      .st3 {
+        stroke-width: 1.7px;
+      }
+    </style>
+  </defs>
+  <rect class="st4" width="64" height="64" rx="14" ry="14"/>
+  <g>
+    <rect class="st6" x="7" y="7" width="50" height="50" rx="3" ry="3"/>
+    <line class="st6" x1="32" y1="7.7" x2="32" y2="56.3"/>
+    <line class="st6" x1="7.8" y1="32" x2="56.2" y2="32"/>
+  </g>
+  <g>
+    <circle class="st2" cx="22.9" cy="40.6" r="16.8"/>
+    <path class="st5" d="M9.8,31c7.2,3.6,7.2,15.6,0,19.2M36.1,31c-7.2,3.6-7.2,15.6,0,19.2"/>
+  </g>
+  <g>
+    <path class="st0" d="M45.1,2.2l15.8,16.2-23.8,15.1-6.8-7L45.1,2.2Z"/>
+    <path class="st3" d="M50.7,7.9l-18.3,20.6M55.2,12.6l-20.1,18.8"/>
+    <path class="st1" d="M29.2,25.3l9,9.3-2.3,2.3c-2.5,2.6-6.5,2.6-9,0-2.5-2.6-2.5-6.7,0-9.3l2.3-2.3Z"/>
+  </g>
+</svg>
